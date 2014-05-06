@@ -24,7 +24,7 @@ UserDSDT pre-configured choices (frank.mb):
 
 ---
 
-### MultiBeast Build: Frank  
+### MultiBeast Build: Carl  
 UserDSDT pre-configured choices (carl.mb):
 - Drivers > Audio > Realtek ALCxxx > With DSDT > ALC889
 - Drivers > Disk > 3rd Party eSATA
