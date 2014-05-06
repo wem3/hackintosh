@@ -20,7 +20,8 @@ UserDSDT pre-configured choices (frank.mb):
 - Customize -> Boot Options -> Hibernate Mode - Desktop  
 - Customize -> Boot Options -> Use KernelCache  
 - Customize -> System Definition -> Mac Pro -> Mac Pro 3,1  
-- Customize -> Themes -> tonymacx86 Black  
+- Customize -> Themes -> tonymacx86 Black    
+
 ---
 
 ### MultiBeast Build: Frank  
@@ -45,6 +46,8 @@ UserDSDT pre-configured choices (carl.mb):
 - Customize > System Definitions > Mac Pro > Mac Pro 3,1
 - Customize > SSDT Options > Sandy Bridge Core i7
 - Customize > Themes > Chameleon 2.2 Default  
+  
+
 ---
 
 ### Hardware: Frank
